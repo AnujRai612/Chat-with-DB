@@ -1,6 +1,6 @@
-# AI Data Analyst 2.0
+# AI Chat with DB data
 
-Turn natural language questions into executable SQL against your local SQLite database. This project uses LangChain with local Ollama models and runs on the ultra-fast `uv` Python package manager.
+This project turn natural language questions into executable SQL against local SQLite database. This project uses LangChain with local Ollama models and runs on the ultra-fast `uv` Python package manager.
 
 ## Features
 - Automatic schema extraction from `amazon.db`
